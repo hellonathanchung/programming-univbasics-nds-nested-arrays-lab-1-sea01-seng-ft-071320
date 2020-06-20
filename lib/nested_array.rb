@@ -23,7 +23,6 @@ def assembled_matrix
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
   [
     CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE]
-  end
     assembled_matrix
 end
 
